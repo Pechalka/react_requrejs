@@ -1,0 +1,12 @@
+body {
+	width: 960px;
+	margin: 0 auto;
+	margin-top: 200px;
+	background: #ccc;
+}
+
+#app {
+	background: #fff;
+	min-height: 500px;
+	padding: 20px;
+}
